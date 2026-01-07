@@ -12,15 +12,15 @@ Scripts do dia a dia sobre SQL Server e Pipelines de dados.
 📌 -
 
 Tecnologias que utilizo diariamente :
-Microsoft SQL Server
-Azure SQL Database & Managed Instance
-SQL Server Integration Services (SSIS)
-Query Tuning & Execution Plans
-PowerShell para Administração SQL
-GitHub & SSMS 22 – Versionamento de scripts
-Azure Data Factory & ETL
-Databricks
-Airflow
+-Microsoft SQL Server
+-Azure SQL Database & Managed Instance
+-SQL Server Integration Services (SSIS)
+-Query Tuning & Execution Plans
+-PowerShell para Administração SQL
+-GitHub & SSMS 22 – Versionamento de scripts
+-Azure Data Factory & ETL
+-Databricks
+-Airflow
 
 Onde me encontrar
 🎥 YouTube: Canal em desenvolvimento...
