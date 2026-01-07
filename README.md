@@ -23,8 +23,8 @@ Scripts do dia a dia sobre SQL Server e Pipelines de dados.
 - Airflow
 
 ## Onde me encontrar
-🎥 YouTube: Canal em desenvolvimento...
-📸 Instagram: @__jootaa
-💼 LinkedIn: https://www.linkedin.com/in/claudio-de-souza-jr/
+- 🎥 YouTube: Canal em desenvolvimento...
+- 📸 Instagram: @__jootaa
+- 💼 LinkedIn: https://www.linkedin.com/in/claudio-de-souza-jr/
 
 
