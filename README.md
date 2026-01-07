@@ -7,11 +7,11 @@ Aqui no GitHub compartilho:
 
 Scripts do dia a dia sobre SQL Server e Pipelines de dados.
 
-🗂 Repositórios em destaque (Em construção)
+## 🗂 Repositórios em destaque (Em construção)
 📌 -
 📌 -
 
-Tecnologias que utilizo diariamente :
+## Tecnologias que utilizo diariamente :
 - Microsoft SQL Server
 - Azure SQL Database & Managed Instance
 - SQL Server Integration Services (SSIS)
