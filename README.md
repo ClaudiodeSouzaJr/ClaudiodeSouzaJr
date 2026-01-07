@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Olá, eu sou o Claudio!
+Sou DBA / Engenheiro de Dados no Insper, com 5 anos de experiência da área de dados com expertise no banco de dados SQL Server  (incluindo SSIS e SSRS) e administração de ambientes críticos (on-premises e Azure SQL Database). Atualmente ampliando meus conhecimentos em Engenharia de Dados, com atuação em pipelines de dados no Azure Data Factory, buscando integrar minhas habilidades de otimização e automação para construir soluções de dados eficientes e escaláveis. 
 
-<!--
-**ClaudiodeSouzaJr/ClaudiodeSouzaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui no GitHub compartilho:
 
-Here are some ideas to get you started:
+Scripts do dia a dia sobre SQL Server e Pipelines de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗂 Repositórios em destaque (Em construção)
+📌 
+📌 
+
+Tecnologias que utilizo diariamente :
+Microsoft SQL Server
+Azure SQL Database & Managed Instance
+SQL Server Integration Services (SSIS)
+Query Tuning & Execution Plans
+PowerShell para Administração SQL
+GitHub & SSMS 22 – Versionamento de scripts
+Azure Data Factory & ETL
+Databricks
+Airflow
+
+Onde me encontrar
+🎥 YouTube: Canal em desenvolvimento...
+📸 Instagram: @__jootaa
+💼 LinkedIn: https://www.linkedin.com/in/claudio-de-souza-jr/
+
+
