@@ -1,4 +1,6 @@
 👋 Olá, eu sou o Claudio!
+
+
 Sou DBA / Engenheiro de Dados no Insper, com 5 anos de experiência da área de dados com expertise no banco de dados SQL Server  (incluindo SSIS e SSRS) e administração de ambientes críticos (on-premises e Azure SQL Database). Atualmente ampliando meus conhecimentos em Engenharia de Dados, com atuação em pipelines de dados no Azure Data Factory, buscando integrar minhas habilidades de otimização e automação para construir soluções de dados eficientes e escaláveis. 
 
 Aqui no GitHub compartilho:
